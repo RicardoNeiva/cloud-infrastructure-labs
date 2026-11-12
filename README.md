@@ -82,4 +82,52 @@ Screenshots of the lab environment and successful SSH connection will be added t
 - Linux terminal commands
 - User and file management
 - SSH and remote administration
-- Linux
+- Linux services and basic troubleshooting
+
+### Month 2 — Windows Server and Networking
+- Windows Server administration
+- Virtualisation
+- TCP/IP networking
+- DNS and DHCP fundamentals
+- PowerShell basics
+
+### Month 3 — Microsoft Azure Fundamentals
+- Introduction to cloud computing
+- Azure Virtual Machines
+- Azure networking
+- Azure storage
+- Azure resource management
+
+### Month 4 — Azure Infrastructure Administration
+- Deploying Azure resources
+- Virtual networks and connectivity
+- Virtual machine administration
+- Monitoring and troubleshooting
+
+### Month 5 — Infrastructure Automation
+- PowerShell scripting
+- Bash scripting
+- Azure CLI
+- Introduction to Infrastructure as Code
+
+### Month 6 — Portfolio Development
+- Advanced infrastructure labs
+- Microsoft Azure Administrator (AZ-104) preparation
+- Technical documentation
+- Cloud administration portfolio projects
+
+## Career Objective
+
+My professional background in enterprise IT operations and Major Incident Management has provided me with experience in incident troubleshooting, service availability, technical coordination, and operational processes.
+
+I am building on this experience by developing practical technical skills in Linux, Windows Server, virtualisation, and Microsoft Azure.
+
+My goal is to move into a Systems Administrator, Infrastructure Administrator, or Cloud Administrator position, focusing on hands-on technical work, infrastructure configuration, and continuous learning.
+
+## Project Status
+
+**Lab 01:** Ubuntu Server installation and SSH connectivity — Completed
+
+**Current Focus:** Linux administration fundamentals
+
+**Next Lab:** Linux service administration and web server configuration
