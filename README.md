@@ -73,7 +73,17 @@ This exercise helped reinforce the importance of checking system availability an
 
 ### Evidence
 
-Screenshots of the lab environment and successful SSH connection will be added to document the configuration and results.
+#### VirtualBox Network Configuration
+![VirtualBox Network](evidence/01-virtualbox-network.png)
+
+#### Ubuntu Server Information
+![Ubuntu Server](evidence/02-ubuntu-server.png)
+
+#### SSH Connection
+![SSH Connection](evidence/03-ssh-connection.png)
+
+#### SSH Service and Firewall
+![SSH and Firewall](evidence/04-ssh-firewall.png)
 
 ## Learning Roadmap
 
